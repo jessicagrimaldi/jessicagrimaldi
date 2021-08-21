@@ -8,6 +8,10 @@
 
 Venho estudando de forma independente, através de cursos online.
 
+
+[Aqui tem meu histórico de cursos, projetos e acompanhamento de eventos.](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech)
+
+
 #### 📫 Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
 [Dev.to](https://dev.to/jessicagrimaldi) |
