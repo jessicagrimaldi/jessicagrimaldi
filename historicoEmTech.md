@@ -6,7 +6,11 @@ Cappacita & Smarkio - Desenvolvimento de IAs conversacionais
 
 Alura - Node.Js e Express
 
-Alura - Formação em Front End
+Alura - Formação em: Gerente Ágil - Metodologia Agile (1/13)*¹
+
+Alura - Formação em Inovação para líderes (1/5)*¹
+
+*¹ As formações Alura são conjuntos de cursos determinados pela plataforma para aprendizado em determinado tema. Entre parentêsis está o número do curso que estou realizando e a quantidade total da formação.
 
 #### Realizados:
 
@@ -38,9 +42,13 @@ Tópicos de UX para Design de Serviços - Samsung Oceans
 
 ## Eventos
 
+Setembro 2021: IGTI - Dev Summit III
+
 Julho 2021: Front in Sampa
 
-Julho 2021: AI Today
+Julho 2021: IGTI - AI Today
+
+Julho 2021: Programaria Sprint Cases de Tecnologia da Globo
 
 Junho 2021: Programaria Sprint Processos Seletivos
 
