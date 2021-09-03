@@ -6,11 +6,10 @@
 
 #### 🌱 Sobre meus estudos:
 
-Venho estudando de forma independente, através de cursos online.
+Venho estudando de forma independente, através de cursos online. - [Aqui você pode ver meu histórico de estudos em tech](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
 
-
-[Aqui você pode ver meu histórico de estudos](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
-
+Com o objetivo de manter a constância de estudos em tech, gestão e inovação, criei o #oneMonthOfMyObjectives - 
+[Aqui você pode acompanha-lo](https://golden-modem-3cd.notion.site/2c4c7fbef768415cacb291cca458f91d?v=6815eda17f8f4a729c20013e39c38579)
 
 #### 📫 Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
