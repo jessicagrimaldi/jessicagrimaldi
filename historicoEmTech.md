@@ -1,3 +1,6 @@
+
+Olá! Esse histórico de estudos está divido entre as sessões cursos, eventos e palestras. Em cursos, informo os que estão em andamento e os já realizados. Nestes, há alguns que foram cursados em mais de um mês. Para melhor organização, coloco apenas no período em que foram finalizados.
+
 ## Cursos
 
 ### Em andamento:
@@ -55,3 +58,10 @@ Programaria Summit 2021 ; Feira Ambev Conecta ; IGTI - Dev Summit III
 Julho 2021: Front in Samp; IGTI - AI Today ; Programaria Sprint Cases de Tecnologia da Globo
 
 Junho 2021: Programaria Sprint Processos Seletivos; TDC Connections
+
+
+
+## Palestras
+
+Outubro 2021: Como ler/usar documentação - Conferência He4rt Developers
+
