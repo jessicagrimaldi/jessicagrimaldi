@@ -2,11 +2,9 @@
 
 ### Em andamento:
 
-Cappacita & Smarkio - Desenvolvimento de IAs conversacionais
+Alura - Node.Js e Express (1/10)
 
-Alura - Node.Js e Express
-
-Alura - Formação em: Gerente Ágil - Metodologia Agile (1/13)*¹
+Alura - Formação em: Gerente Ágil - Metodologia Agile (2/13)*¹
 
 Alura - Formação em Inovação para líderes (2/5)*¹
 
@@ -14,11 +12,16 @@ Alura - Formação em Inovação para líderes (2/5)*¹
 
 ### Realizados:
 
-#### *Setembro de 2021:*
+#### Outubro de 2021: 
+Desenvolvimento de IAs conversacionais - Cappacita & Smarkio
 
-Liderança Ambidestra, Buscando Inovação e Resultados - Alura
+#### Setembro de 2021:
 
-#### *Agosto de 2021:*
+Liderança Ambidestra, Buscando Inovação e Resultados - (Curso 01 da Formação em Inovação para Líder, Alura)
+
+Scrum parte 1: Gerencie o seu projeto de forma ágil -  (Curso 01 da Formação em: Gerente Ágil, Alura)
+
+#### Agosto de 2021:
 
 Assistente de Voz em Bixby - Samsung Oceans
 
@@ -31,7 +34,7 @@ Linguagem Python, Aprendendo a linguagem - Samsung Oceans
 IBM Watson - IBM
 
 
-#### *Julho de 2021:*
+#### Julho de 2021:
 
 IA e IoT para cidades inteligentes - Samsung Oceans
 
@@ -45,16 +48,10 @@ Tópicos de UX para Design de Serviços - Samsung Oceans
 
 ## Eventos
 
-Setembro 2021: Feira Ambev Conecta
 
-Setembro 2021: IGTI - Dev Summit III
+Setembro 2021: MeetUp WoMakersCode - "HTTP e API Rest - O Coraçāo de um backend"" ; 
+Programaria Summit 2021 ; Feira Ambev Conecta ; IGTI - Dev Summit III
 
-Julho 2021: Front in Sampa
+Julho 2021: Front in Samp; IGTI - AI Today ; Programaria Sprint Cases de Tecnologia da Globo
 
-Julho 2021: IGTI - AI Today
-
-Julho 2021: Programaria Sprint Cases de Tecnologia da Globo
-
-Junho 2021: Programaria Sprint Processos Seletivos
-
-Junho 2021: TDC Connections
+Junho 2021: Programaria Sprint Processos Seletivos; TDC Connections
