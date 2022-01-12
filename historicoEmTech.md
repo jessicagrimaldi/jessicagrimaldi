@@ -5,8 +5,6 @@ Olá! Esse histórico de estudos está divido entre as sessões cursos, eventos 
 
 ### Em andamento:
 
-Alura - Node.Js e Express (1/10)
-
 Alura - Formação em: Gerente Ágil - Metodologia Agile (2/13)*¹
 
 Alura - Formação em Inovação para líderes (2/5)*¹
