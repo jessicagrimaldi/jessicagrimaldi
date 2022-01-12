@@ -5,13 +5,12 @@
 
 #### 🌱 Sobre meus estudos:
 
-Entre Novembro 2021 a julho 2022 realizarei o Curso de Qualificação em Programação Backend (SENAI)  
+Estou realizando o Curso de Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
 
-Entre julho de 2021 e outubro de 2021 realizei cursos livros. - [Aqui você pode ver esse histórico de estudos](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
+Entre julho de 2021 e outubro de 2021 realizei cursos livres e acompanhei eventos/paletras  - [Aqui você pode ver esse histórico](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
 
 #### 📫 Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
-[Dev.to](https://dev.to/jessicagrimaldi) |
 jessicagrimaldisa@gmail.com
 
 
