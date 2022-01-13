@@ -11,7 +11,8 @@ Entre julho de 2021 e outubro de 2021 realizei cursos livres e acompanhei evento
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
 jessicagrimaldisa@gmail.com
 
-
+#### Se você prefere ler em inglês: 
+[English version here](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/english/EN-README.md) 
 <!--
 **jessicagrimaldi/jessicagrimaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
