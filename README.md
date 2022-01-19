@@ -1,6 +1,6 @@
 ### Olá, eu sou a Jéssica! 👋
 
-Estou realizando o Curso de Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
+Estou realizando o Curso de Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/blob/development/senaiAtividades/moduloIntrodutorio.md) 
 
 Entre julho de 2021 e outubro de 2021 realizei cursos livres e acompanhei eventos/paletras  - [Aqui você pode ver esse histórico](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
 
