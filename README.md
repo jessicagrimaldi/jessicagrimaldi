@@ -4,7 +4,7 @@ Sou calourinha em Análise e Desenvolvimento de Sistemas pela PUC-Minas.
 
 Em paralelo realizo os seguintes cursos:
 
-- Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/blob/development/senaiAtividades/moduloIntrodutorio.md) 
+- Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
 
 - Desenvolvimento Web (Nave do Conhecimento, Prefeitura RJ) 
 
