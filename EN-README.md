@@ -1,8 +1,14 @@
 ### Hello, I'm Jéssica! 👋
 
-I’m currently learning Backend Programming at SENAI - [You can see the activities I did in this repository.](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
+I'm a Systems Analysis and Development Student at PUC-Minas.
 
-I studied at platforms likes Alura and Samsung Oceans and watched some talks between July 2021 and October 2021.  [You can see here.](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
+At the same time, I take this courses:
+
+- Backend Programming at SENAI - [You can see the activities I did in this repository.](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
+
+- Web Development at Nave do Conhecimento, RJ
+
+Previously, I studied at platforms likes Alura and Samsung Oceans and watched some talks between July 2021 and October 2021.  [You can see here.](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
 
 #### 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
