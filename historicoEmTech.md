@@ -1,5 +1,5 @@
 
-Olá! Esse histórico de estudos está dividido entre as sessões cursos, eventos e palestras. Em cursos, há alguns que foram cursados em mais de um mês. Para melhor organização, coloco apenas no período em que foram finalizados.
+Olá! Esse histórico está dividido entre as sessões cursos, eventos e palestras. Em cursos, há alguns que foram cursados em mais de um mês. Para melhor organização, coloco apenas no período em que foram finalizados.
 
 ## Cursos
 
