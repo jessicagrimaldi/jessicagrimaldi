@@ -1,15 +1,12 @@
 ### Olá, eu sou a Jéssica! 👋
 
-Sou calourinha em Análise e Desenvolvimento de Sistemas pela PUC-Minas.
+Sou graduanda em Análise e Desenvolvimento de Sistemas pela PUC-Minas.
 
 Em paralelo realizo os seguintes cursos:
 
 - Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
 
 - Desenvolvimento Web (Nave do Conhecimento, Prefeitura RJ) 
-
-Antes de iniciar os estudos acima, realizei cursos livres e acompanhei eventos/paletras  - [Aqui você pode ver esse histórico](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md). 
-
 
 #### 📫 Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
