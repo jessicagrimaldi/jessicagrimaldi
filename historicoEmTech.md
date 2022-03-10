@@ -1,17 +1,8 @@
 
-Olá! Esse histórico de estudos está divido entre as sessões cursos, eventos e palestras. Em cursos, informo os que estão em andamento e os já realizados. Nestes, há alguns que foram cursados em mais de um mês. Para melhor organização, coloco apenas no período em que foram finalizados.
+Olá! Esse histórico de estudos está dividido entre as sessões cursos, eventos e palestras. Em cursos, há alguns que foram cursados em mais de um mês. Para melhor organização, coloco apenas no período em que foram finalizados.
 
 ## Cursos
 
-### Em andamento:
-
-Alura - Formação em: Gerente Ágil - Metodologia Agile (2/13)*¹
-
-Alura - Formação em Inovação para líderes (2/5)*¹
-
-*¹ As formações Alura são conjuntos de cursos determinados pela plataforma para aprendizado em determinado tema. Entre parentêsis está o número do curso que estou realizando e a quantidade total da formação.
-
-### Realizados:
 
 #### Outubro de 2021: 
 Desenvolvimento de IAs conversacionais - Cappacita & Smarkio
