@@ -8,8 +8,6 @@ At the same time, I take this courses:
 
 - Web Development at Nave do Conhecimento, RJ
 
-Previously, I studied at platforms likes Alura and Samsung Oceans and watched some talks between July 2021 and October 2021.  [You can see here.](https://github.com/jessicagrimaldi/jessicagrimaldi/blob/main/historicoEmTech.md)
-
 #### 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
 jessicagrimaldisa@gmail.com
