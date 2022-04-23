@@ -1,12 +1,10 @@
 ### Olá, eu sou a Jéssica! 👋
 
-Sou graduanda em Análise e Desenvolvimento de Sistemas pela PUC-Minas.
+Sou graduanda em Análise e Desenvolvimento de Sistemas pela PUC-Minas,
 
-Em paralelo realizo os seguintes cursos:
+estudo [backend com C# e .NET](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) no SENAI 
 
-- Qualificação em Programação Backend (SENAI) - [Aqui estão minhas atividades realizadas](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) 
-
-- Desenvolvimento Web (Nave do Conhecimento, Prefeitura RJ) 
+e ensino programação para crianças na HAPPY. :)
 
 #### 📫 Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
