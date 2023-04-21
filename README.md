@@ -2,15 +2,17 @@
 
 Sou graduanda em Análise e Desenvolvimento de Sistemas pela PUC-Minas,
 
-estudo [backend com C# e .NET](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) no SENAI 
+e estagiária de DevOps na Globo.
 
-e ensino programação para crianças na HAPPY. :)
 
 #### 📫 Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/jessicagrimaldi/) |
 jessicagrimaldisa@gmail.com
 
 <!--
+estudo [backend com C# e .NET](https://github.com/jessicagrimaldi/studies/tree/development/senaiAtividades) no SENAI 
+
+
 **jessicagrimaldi/jessicagrimaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
