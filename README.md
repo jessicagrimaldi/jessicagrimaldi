@@ -2,7 +2,7 @@
 
 Sou graduanda em Análise e Desenvolvimento de Sistemas pela PUC-Minas,
 
-e estagiária de DevOps na Globo.
+e DevOps Junior na Globo.
 
 
 #### 📫 Você pode me encontrar em:
